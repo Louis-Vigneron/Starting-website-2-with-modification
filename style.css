@@ -1040,3 +1040,21 @@ h4 {
         text-align: center;
     }
 }
+
+
+/*Modification*/
+
+.citation {
+    font-style: italic;
+    font-size: large;
+    width: 75%;
+}
+
+.citation span {
+    font-style: normal;
+}
+
+.col-xs-12{
+    display: flex;
+    justify-content: center;
+}
