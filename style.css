@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -1069,5 +1069,10 @@ li a{
 
 .col-sm-4 p
 {
-    color: #FFFFFF!important;
+    color: #000000!important;
+}
+
+.fa, .black
+{
+    color: #000000!important;
 }
